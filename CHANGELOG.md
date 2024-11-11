@@ -1,7 +1,21 @@
-# [1.2.0](https://github.com/DarNattp/semver/compare/1.1.2...1.2.0) (2024-11-11)
+## [1.2.1-beta.1](https://github.com/DarNattp/semver/compare/1.2.0...1.2.1-beta.1) (2024-11-11)
 
 
 ### Bug Fixes
+
+* jul ([57c4cce](https://github.com/DarNattp/semver/commit/57c4cce80dddf0466d504970feeea16f620da610))
+
+# [1.2.0-beta.1](https://github.com/DarNattp/semver/compare/1.1.2...1.2.0-beta.1) (2024-11-11)
+
+# [1.2.0](https://github.com/DarNattp/semver/compare/1.1.2...1.2.0) (2024-11-11)
+
+
+
+### Bug Fixes
+
+
+* jul ([57c4cce](https://github.com/DarNattp/semver/commit/57c4cce80dddf0466d504970feeea16f620da610))
+
 
 * work dir ([9afbcc1](https://github.com/DarNattp/semver/commit/9afbcc14ac6ad42ffb452b852664799636071c91))
 
