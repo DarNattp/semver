@@ -23,6 +23,7 @@ jobs:
         uses: cycjimmy/semantic-release-action@v4
         with:
           tag_format: '${version}'
+          working_directory: .github
           extra_plugins: |
             @semantic-release/changelog@6.0.0
             @semantic-release/git
