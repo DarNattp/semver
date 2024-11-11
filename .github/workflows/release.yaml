@@ -2,8 +2,8 @@ name: Release
 on:
   push:
     branches:
-      # - main
-      - develop
+      - main
+      # - develop
 jobs:
   release:
     name: release
@@ -16,7 +16,7 @@ jobs:
         uses: cycjimmy/semantic-release-action@v4
         id: semantic
         with:
-          branche: develop
+          branche: main
           extra_plugins: |
             @semantic-release/git
             @semantic-release/changelog
