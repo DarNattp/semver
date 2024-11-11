@@ -1,7 +1,12 @@
+
 # [1.2.0-develop.2](https://github.com/DarNattp/semver/compare/1.2.0-develop.1...1.2.0-develop.2) (2024-11-11)
+
+## [1.1.2](https://github.com/DarNattp/semver/compare/1.1.1...1.1.2) (2024-11-11)
+
 
 
 ### Bug Fixes
+
 
 * work dir ([9afbcc1](https://github.com/DarNattp/semver/commit/9afbcc14ac6ad42ffb452b852664799636071c91))
 
@@ -11,6 +16,11 @@
 ### Features
 
 * change path releaserc ([50748f9](https://github.com/DarNattp/semver/commit/50748f996007a39b89ade7f54a454bf9cea3f0fd))
+
+* test4 ([405b39c](https://github.com/DarNattp/semver/commit/405b39cc1cb27ae65b199e5eadc2b9afd850969e))
+* test5 ([09be653](https://github.com/DarNattp/semver/commit/09be653881b1a38f9cc8ee5477eeee57ee3aae81))
+* tgdrgdrg ([fe6e398](https://github.com/DarNattp/semver/commit/fe6e3984b72df878cafb0c4a8d194c01da316dad))
+
 
 ## [1.1.2-develop.2](https://github.com/DarNattp/semver/compare/1.1.2-develop.1...1.1.2-develop.2) (2024-11-11)
 
