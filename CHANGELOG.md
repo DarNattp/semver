@@ -1,3 +1,10 @@
+# [1.2.0-develop.2](https://github.com/DarNattp/semver/compare/1.2.0-develop.1...1.2.0-develop.2) (2024-11-11)
+
+
+### Bug Fixes
+
+* work dir ([9afbcc1](https://github.com/DarNattp/semver/commit/9afbcc14ac6ad42ffb452b852664799636071c91))
+
 # [1.2.0-develop.1](https://github.com/DarNattp/semver/compare/1.1.2-develop.2...1.2.0-develop.1) (2024-11-11)
 
 
