@@ -23,7 +23,7 @@ jobs:
         uses: cycjimmy/semantic-release-action@v4
         with:
           branch: main
-          tag_format: custom-v${version}
+          tag_format: '${version}'
           extra_plugins: |
             @semantic-release/changelog@6.0.0
             @semantic-release/git          
