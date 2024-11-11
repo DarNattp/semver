@@ -1,3 +1,10 @@
+## [1.1.1-develop.1](https://github.com/DarNattp/semver/compare/1.1.0...1.1.1-develop.1) (2024-11-11)
+
+
+### Bug Fixes
+
+* terfsad ([3e5f39a](https://github.com/DarNattp/semver/commit/3e5f39ab2e01262a38a9794e29a3f829b67ded02))
+
 # [1.1.0-develop.1](https://github.com/DarNattp/semver/compare/1.0.0...1.1.0-develop.1) (2024-11-11)
 
 
