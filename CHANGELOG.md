@@ -1,3 +1,12 @@
+# [1.3.0-beta.2](https://github.com/DarNattp/semver/compare/1.3.0-beta.1...1.3.0-beta.2) (2024-11-11)
+
+
+### Bug Fixes
+
+* asd ([663d1ba](https://github.com/DarNattp/semver/commit/663d1ba4e1fe175a5c97cb4976c0bfe122170c30))
+* asdasd ([d2ede45](https://github.com/DarNattp/semver/commit/d2ede453e2a5b8675e8a8dfee36da2a9528fbf3b))
+* try ([8436302](https://github.com/DarNattp/semver/commit/8436302e1d7449fa1c095ed213be846491843d0c))
+
 # [1.3.0-beta.1](https://github.com/DarNattp/semver/compare/1.2.2-beta.1...1.3.0-beta.1) (2024-11-11)
 
 
