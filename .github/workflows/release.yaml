@@ -33,7 +33,7 @@ jobs:
                 prerelease: 'beta'
               },
               {
-                name: 'release',
+                name: 'release/*',
                 prerelease: 'rc'
               }
             ]            
