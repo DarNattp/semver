@@ -5,11 +5,12 @@ on:
       - main
       - develop
       - release/*
-      - hotfix/*            
+      - hotfix/*
 jobs:
   release:
     name: Release
     runs-on: ubuntu-latest
+    if: ${{ !(github.ref == 'refs/heads/develop' && startsWith(github.event.before, 'refs/heads/release/')) }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
