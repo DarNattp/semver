@@ -1,5 +1,3 @@
-## [1.1.1](https://github.com/DarNattp/semver/compare/1.1.0...1.1.1) (2024-11-11)
-
 
 ### Bug Fixes
 
