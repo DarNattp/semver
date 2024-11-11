@@ -16,9 +16,7 @@ jobs:
         uses: cycjimmy/semantic-release-action@v4
         id: semantic
         with:
-          branchs: 
-            - main
-            - develop
+          branches: main,develop
           extra_plugins: |
             @semantic-release/git
             @semantic-release/changelog
