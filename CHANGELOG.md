@@ -1,3 +1,10 @@
+# [1.3.0-beta.3](https://github.com/DarNattp/semver/compare/1.3.0-beta.2...1.3.0-beta.3) (2024-11-11)
+
+
+### Bug Fixes
+
+* sfsf ([5195212](https://github.com/DarNattp/semver/commit/5195212ce2a75d4bf4609203fafe057b94768056))
+
 # [1.3.0-rc.1](https://github.com/DarNattp/semver/compare/1.2.1...1.3.0-rc.1) (2024-11-11)
 
 
