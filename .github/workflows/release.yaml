@@ -10,7 +10,7 @@ jobs:
   release:
     name: Release
     runs-on: ubuntu-latest
-    if: !(github.ref == 'refs/heads/develop' && startsWith(github.event.head_commit.message, 'Merge pull request') && contains(github.event.pull_request.base.ref, 'release/'))
+    if: ${{ !(github.ref == 'refs/heads/develop' && startsWith(github.event.before, 'refs/heads/release/')) }}
     steps:
       - name: Checkout
         uses: actions/checkout@v4
