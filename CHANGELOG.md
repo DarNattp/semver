@@ -1,3 +1,10 @@
+# [1.3.0-beta.1](https://github.com/DarNattp/semver/compare/1.2.2-beta.1...1.3.0-beta.1) (2024-11-11)
+
+
+### Features
+
+* gogo ([213f7d0](https://github.com/DarNattp/semver/commit/213f7d0f2dc00651014c8013444bdbb258ca8382))
+
 ## [1.2.2-beta.1](https://github.com/DarNattp/semver/compare/1.2.1...1.2.2-beta.1) (2024-11-11)
 
 
