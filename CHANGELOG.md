@@ -1,12 +1,3 @@
-## [1.1.1-develop.2](https://github.com/DarNattp/semver/compare/1.1.1-develop.1...1.1.1-develop.2) (2024-11-11)
-
-
-### Bug Fixes
-
-* tgdrgdrg ([fe6e398](https://github.com/DarNattp/semver/commit/fe6e3984b72df878cafb0c4a8d194c01da316dad))
-
-## [1.1.1-develop.1](https://github.com/DarNattp/semver/compare/1.1.0...1.1.1-develop.1) (2024-11-11)
-
 
 ### Bug Fixes
 
