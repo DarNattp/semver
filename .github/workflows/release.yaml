@@ -6,11 +6,6 @@ on:
       - develop
       - release/*
       - hotfix/*            
-
-# permissions:
-#   contents: write
-#   pull-requests: write
-
 jobs:
   release:
     name: Release
@@ -38,7 +33,7 @@ jobs:
                 prerelease: 'beta'
               },
               {
-                name: 'release',
+                name: 'release/*',
                 prerelease: 'rc'
               }
             ]            
