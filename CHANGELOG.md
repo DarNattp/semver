@@ -1,3 +1,10 @@
+## [1.2.2-beta.1](https://github.com/DarNattp/semver/compare/1.2.1...1.2.2-beta.1) (2024-11-11)
+
+
+### Bug Fixes
+
+* ngongo ([8023a05](https://github.com/DarNattp/semver/commit/8023a05989787f9ed7a0ff2d7402de6352920095))
+
 ## [1.2.2-rc.1](https://github.com/DarNattp/semver/compare/1.2.1...1.2.2-rc.1) (2024-11-11)
 
 
