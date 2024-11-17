@@ -1,3 +1,10 @@
+# [1.3.0-beta.8](https://github.com/DarNattp/semver/compare/1.3.0-beta.7...1.3.0-beta.8) (2024-11-17)
+
+
+### Features
+
+* tawsweda ([3bf855f](https://github.com/DarNattp/semver/commit/3bf855f48b127484cd9eb59aec1d55c331d26dec))
+
 # [1.3.0-beta.7](https://github.com/DarNattp/semver/compare/1.3.0-beta.6...1.3.0-beta.7) (2024-11-17)
 
 
