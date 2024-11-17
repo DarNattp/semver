@@ -5,6 +5,7 @@
 
 * main not trigger ([3cd960e](https://github.com/DarNattp/semver/commit/3cd960e1e07b6e9c701c0f5ac37f6c9180fe9103))
 
+
 # [1.3.0-beta.4](https://github.com/DarNattp/semver/compare/1.3.0-beta.3...1.3.0-beta.4) (2024-11-17)
 
 
