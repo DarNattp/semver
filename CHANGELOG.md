@@ -4,6 +4,27 @@
 ### Bug Fixes
 
 * 1123 ([1f6271c](https://github.com/DarNattp/semver/commit/1f6271cc6583bf63f0812e08e1f8d7a41729c8a5))
+* asd ([0247ae6](https://github.com/DarNattp/semver/commit/0247ae6294a598fc7ad6167d689c522f9bd5a33d))
+* asd ([663d1ba](https://github.com/DarNattp/semver/commit/663d1ba4e1fe175a5c97cb4976c0bfe122170c30))
+* asdasd ([53c1ce5](https://github.com/DarNattp/semver/commit/53c1ce5fbc5dab2910ef481ebb3036c6a92da6a9))
+* asdasd ([d2ede45](https://github.com/DarNattp/semver/commit/d2ede453e2a5b8675e8a8dfee36da2a9528fbf3b))
+* **asdasd:** thgdfg ([c452bd5](https://github.com/DarNattp/semver/commit/c452bd50664d5d79c88d938706457fcb43a997a1))
+* main not trigger ([3cd960e](https://github.com/DarNattp/semver/commit/3cd960e1e07b6e9c701c0f5ac37f6c9180fe9103))
+* releaserc ([de866d1](https://github.com/DarNattp/semver/commit/de866d15114f3d33b79dca7537335c9de94fe16f))
+* sfsf ([5195212](https://github.com/DarNattp/semver/commit/5195212ce2a75d4bf4609203fafe057b94768056))
+* try ([8436302](https://github.com/DarNattp/semver/commit/8436302e1d7449fa1c095ed213be846491843d0c))
+
+
+### Features
+
+* gogo ([213f7d0](https://github.com/DarNattp/semver/commit/213f7d0f2dc00651014c8013444bdbb258ca8382))
+
+# [1.3.0-rc.1](https://github.com/DarNattp/semver/compare/1.2.2...1.3.0-rc.1) (2024-11-17)
+
+
+### Bug Fixes
+
+* 1123 ([1f6271c](https://github.com/DarNattp/semver/commit/1f6271cc6583bf63f0812e08e1f8d7a41729c8a5))
 
 * asd ([0247ae6](https://github.com/DarNattp/semver/commit/0247ae6294a598fc7ad6167d689c522f9bd5a33d))
 * asd ([663d1ba](https://github.com/DarNattp/semver/commit/663d1ba4e1fe175a5c97cb4976c0bfe122170c30))
