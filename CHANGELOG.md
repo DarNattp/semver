@@ -1,3 +1,16 @@
+# [1.3.0-beta.4](https://github.com/DarNattp/semver/compare/1.3.0-beta.3...1.3.0-beta.4) (2024-11-17)
+
+
+### Bug Fixes
+
+* releaserc ([de866d1](https://github.com/DarNattp/semver/commit/de866d15114f3d33b79dca7537335c9de94fe16f))
+
+# [1.3.0-beta.3](https://github.com/DarNattp/semver/compare/1.3.0-beta.2...1.3.0-beta.3) (2024-11-11)
+
+
+### Bug Fixes
+
+* sfsf ([5195212](https://github.com/DarNattp/semver/commit/5195212ce2a75d4bf4609203fafe057b94768056))
 
 # [1.3.0-rc.1](https://github.com/DarNattp/semver/compare/1.2.1...1.3.0-rc.1) (2024-11-11)
 
@@ -39,9 +52,6 @@
 * ngongo ([8023a05](https://github.com/DarNattp/semver/commit/8023a05989787f9ed7a0ff2d7402de6352920095))
 
 ## [1.2.2-rc.1](https://github.com/DarNattp/semver/compare/1.2.1...1.2.2-rc.1) (2024-11-11)
-
-## [1.2.2](https://github.com/DarNattp/semver/compare/1.2.1...1.2.2) (2024-11-11)
-
 
 
 ### Bug Fixes
