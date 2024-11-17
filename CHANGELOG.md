@@ -1,3 +1,10 @@
+# [1.3.0-beta.4](https://github.com/DarNattp/semver/compare/1.3.0-beta.3...1.3.0-beta.4) (2024-11-17)
+
+
+### Bug Fixes
+
+* releaserc ([de866d1](https://github.com/DarNattp/semver/commit/de866d15114f3d33b79dca7537335c9de94fe16f))
+
 # [1.3.0-beta.3](https://github.com/DarNattp/semver/compare/1.3.0-beta.2...1.3.0-beta.3) (2024-11-11)
 
 
