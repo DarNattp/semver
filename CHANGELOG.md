@@ -1,3 +1,10 @@
+# [1.3.0-beta.7](https://github.com/DarNattp/semver/compare/1.3.0-beta.6...1.3.0-beta.7) (2024-11-17)
+
+
+### Bug Fixes
+
+* 1123 ([1f6271c](https://github.com/DarNattp/semver/commit/1f6271cc6583bf63f0812e08e1f8d7a41729c8a5))
+
 # [1.3.0-beta.6](https://github.com/DarNattp/semver/compare/1.3.0-beta.5...1.3.0-beta.6) (2024-11-17)
 
 
