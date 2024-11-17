@@ -1,3 +1,10 @@
+# [1.3.0-beta.6](https://github.com/DarNattp/semver/compare/1.3.0-beta.5...1.3.0-beta.6) (2024-11-17)
+
+
+### Bug Fixes
+
+* **asdasd:** thgdfg ([c452bd5](https://github.com/DarNattp/semver/commit/c452bd50664d5d79c88d938706457fcb43a997a1))
+
 # [1.3.0-beta.5](https://github.com/DarNattp/semver/compare/1.3.0-beta.4...1.3.0-beta.5) (2024-11-17)
 
 
